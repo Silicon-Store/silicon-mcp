@@ -1,0 +1,21 @@
+{
+  "name": "silicon",
+  "version": "1.0.0",
+  "description": "Shop across hundreds of stores — search products, compare prices, and look up product details, powered by the Silicon Product API.",
+  "author": {
+    "name": "Silicon Inc",
+    "url": "https://siliconstore.com"
+  },
+  "homepage": "https://siliconstore.com/developers",
+  "license": "MIT",
+  "keywords": ["commerce", "shopping", "price-comparison", "agentic-commerce", "ai-agents"],
+  "mcpServers": {
+    "silicon": {
+      "command": "npx",
+      "args": ["-y", "silicon-mcp"],
+      "env": {
+        "SILICON_API_KEY": "${SILICON_API_KEY}"
+      }
+    }
+  }
+}

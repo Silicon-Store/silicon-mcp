@@ -1,0 +1,20 @@
+{
+  "name": "silicon",
+  "owner": {
+    "name": "Silicon Inc",
+    "url": "https://siliconstore.com"
+  },
+  "metadata": {
+    "description": "Silicon Inc's official Claude plugins.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "silicon",
+      "source": "./",
+      "description": "Search products, compare prices, and look up product details across hundreds of stores. Requires a free SILICON_API_KEY from siliconstore.com/developers.",
+      "version": "1.0.0",
+      "category": "commerce"
+    }
+  ]
+}
