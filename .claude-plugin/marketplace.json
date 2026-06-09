@@ -1,11 +1,11 @@
 {
   "name": "silicon",
   "owner": {
-    "name": "Silicon Inc",
+    "name": "Standard Silicon Inc",
     "url": "https://siliconstore.com"
   },
   "metadata": {
-    "description": "Silicon Inc's official Claude plugins.",
+    "description": "Standard Silicon Inc's official Claude plugins.",
     "version": "1.0.0"
   },
   "plugins": [
