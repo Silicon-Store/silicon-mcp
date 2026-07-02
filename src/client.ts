@@ -35,7 +35,7 @@ export class SiliconClient {
   constructor(opts: SiliconClientOptions) {
     if (!opts.apiKey) {
       throw new Error(
-        "SILICON_API_KEY is required. Get one at https://siliconstore.com/developers."
+        "SILICON_API_KEY is required (developer signup coming soon)."
       );
     }
     this.apiKey = opts.apiKey;

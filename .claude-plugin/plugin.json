@@ -6,7 +6,7 @@
     "name": "Standard Silicon Inc",
     "url": "https://siliconstore.com"
   },
-  "homepage": "https://siliconstore.com/developers",
+  "homepage": "https://siliconstore.com",
   "license": "MIT",
   "keywords": ["commerce", "shopping", "price-comparison", "agentic-commerce", "ai-agents"],
   "mcpServers": {

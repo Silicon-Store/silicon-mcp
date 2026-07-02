@@ -1,5 +1,9 @@
 # Silicon MCP
 
+> **🚧 Under active development — not yet complete.** This is a work in progress:
+> tools, packages, and setup steps may change, and some features (including
+> self-serve API-key signup) aren't live yet. Not production-ready.
+
 A [Model Context Protocol](https://modelcontextprotocol.io) server for the
 **Silicon Product API** — let Claude (or any MCP client) search products,
 compare prices, and look up product details across hundreds of stores.
@@ -18,8 +22,8 @@ the only thing you need locally is an API key.
 
 ## Get an API key
 
-Sign up at **https://siliconstore.com/developers** — the free tier includes a
-monthly request allowance. Your key looks like `sk_live_…`.
+A `SILICON_API_KEY` (looks like `sk_live_…`) is required. Self-serve signup is
+coming soon — the developer portal isn't live yet.
 
 ## Install as a Claude plugin (one command)
 

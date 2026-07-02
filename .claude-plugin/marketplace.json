@@ -12,7 +12,7 @@
     {
       "name": "silicon",
       "source": "./",
-      "description": "Search products, compare prices, and look up product details across hundreds of stores. Requires a free SILICON_API_KEY from siliconstore.com/developers.",
+      "description": "Search products, compare prices, and look up product details across hundreds of stores. Requires a SILICON_API_KEY (developer signup coming soon).",
       "version": "1.0.0",
       "category": "commerce"
     }
